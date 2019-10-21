@@ -240,7 +240,6 @@
 				xhttp.send();
 			}
 		</script>
-		<script src="script.js"></script>
 	</div>
 
 </body>
